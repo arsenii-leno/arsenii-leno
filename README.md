@@ -57,6 +57,13 @@ Double-degree student bridging Computer Science fundamentals, low-latency logic,
 
 ---
 
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arsenii-leno&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Arsenii's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=arsenii-leno&theme=tokyonight&hide_border=true" alt="Arsenii Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsenii-leno&theme=tokyo-night&hide_border=true" alt="Arsenii Contribution Graph" />
 </p>
