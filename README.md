@@ -1,4 +1,4 @@
-# Hi, I'm Arseniy Lenio 👋
+# Hi, I'm Arsenii Leno 👋
 **Software Engineer | AI Product Builder | Quantitative & Growth Systems**
 
 Double degree student concurrently pursuing Software Engineering at **FIIT STU (Bratislava)** and Law/IER at **UzhNU**. I bridge deep CS fundamentals, event-driven systems, and production-grade fullstack web applications.
