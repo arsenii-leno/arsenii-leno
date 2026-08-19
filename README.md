@@ -53,7 +53,7 @@ Double-degree student bridging Computer Science fundamentals, low-latency logic,
 
 ### 🎓 Academic & Official Inquiries
 - 🇸🇰 **FIIT STU Email:** [`xlenoa@stuba.sk`](mailto:xlenoa@stuba.sk)
-- 🇺🇦 **UzhNU Email:** [`arseniy.lenio@uzhnu.edu.ua`](mailto:arsenii.leno@student.uzhnu.edu.ua)
+- 🇺🇦 **UzhNU Email:** [`arsenii.leno@uzhnu.edu.ua`](mailto:arsenii.leno@student.uzhnu.edu.ua)
 - ✉️ **Personal Email:** [`arsen.lenio.dev@gmail.com`](mailto:lenyoarsen@gmail.com)
 
 ### 💬 Direct Messengers & Professional
