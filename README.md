@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Arseniy Lenio 👋
+**Software Engineer | AI Product Builder | Quantitative & Growth Systems**
 
-<!--
-**arsenii-leno/arsenii-leno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Double degree student concurrently pursuing Software Engineering at **FIIT STU (Bratislava)** and Law/IER at **UzhNU**. I bridge deep CS fundamentals, event-driven systems, and production-grade fullstack web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Engineering Stack
+
+- **AI Engineering & Backend:** Python, LLM / RAG Pipelines, TypeScript, PHP (WordPress internals), SQLite / Cloudflare D1.
+- **Frontend & Web Performance:** Astro, Tailwind CSS, JavaScript (ES6+), Core Web Vitals optimization.
+- **Systems & Low-Latency:** Event-driven architectures, WebSocket / REST exchange APIs, quantitative logic.
+- **DevOps & Infrastructure:** Cloudflare Pages/Workers, DNS/NS routing, Nginx, Linux CLI, Git.
+- **Growth & Analytics:** Google Ads (PMax, Smart Bidding), Google Analytics 4 (GA4), GTM, technical SEO (`robots.txt`, `llms.txt`).
+
+---
+
+### 🚀 Featured Projects
+
+- 🌐 **[med.uz.ua](https://med.uz.ua)** — Live medical practice web platform (Astro + Cloudflare, ~100/100 Core Web Vitals).
+- ⚡ **[gram-event-quant](#)** — Real-time event-driven quantitative trading engine.
+- 🤖 **[DIkastes.ai](#)** — LegalTech AI assistant utilizing LLMs for legal case processing.
+- 📋 **[Clinic-App](#)** — Modular TypeScript application for patient and clinic record management.
+
+---
+
+📫 **Get in touch:** `xlenoa@stuba.sk` | [LinkedIn](#) | [Telegram](#)
