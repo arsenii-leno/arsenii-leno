@@ -49,11 +49,23 @@ Double-degree student bridging Computer Science fundamentals, low-latency logic,
 
 ---
 
-## 📬 Connect With Me
+## 📬 Get in Touch & Connect
 
-- 📧 **Email:** `xlenoa@stuba.sk`
+### 🎓 Academic & Official Inquiries
+- 🇸🇰 **FIIT STU Email:** [`xlenoa@stuba.sk`](mailto:xlenoa@stuba.sk)
+- 🇺🇦 **UzhNU Email:** [`arseniy.lenio@uzhnu.edu.ua`](mailto:arsenii.leno@student.uzhnu.edu.ua)
+- ✉️ **Personal Email:** [`arsen.lenio.dev@gmail.com`](mailto:lenyoarsen@gmail.com)
+
+### 💬 Direct Messengers & Professional
+- 💬 **Telegram:** [@arsenii_leno](https://t.me/Arsen_Kozaque)
 - 💼 **LinkedIn:** [linkedin.com/in/arsenii-leno](https://linkedin.com/in/arsenii-leno)
-- 💬 **Telegram:** [@arsenii_leno](https://t.me/arsenii_leno)
+- 🟢 **WhatsApp:** [+380 99 706 30 03](https://wa.me/380997063003)
+- 🟣 **Viber:** [+380 99 706 30 03](viber://chat?number=%2B380XXXXXXXXX)
+
+### 🌐 Social & Workspace
+- 📸 **Instagram:** [@arsenii_leno](https://instagram.com/arsenii_leno)
+- 👥 **Facebook:** [facebook.com/arsenii.leno](https://facebook.com/arsenii_leno)
+- 📑 **Notion / Public Hub:** [Notion Workspace](https://notion.so/arsenii_leno)
 
 ---
 
